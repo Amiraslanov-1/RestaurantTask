@@ -1,0 +1,26 @@
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\obj\Debug\netcoreapp3.1\Task VS.csprojAssemblyReference.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\obj\Debug\netcoreapp3.1\Task VS.AssemblyInfoInputs.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\obj\Debug\netcoreapp3.1\Task VS.AssemblyInfo.cs
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\obj\Debug\netcoreapp3.1\Task VS.csproj.CoreCompileInputs.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\bin\Debug\netcoreapp3.1\Task VS.exe
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\bin\Debug\netcoreapp3.1\Task VS.deps.json
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\bin\Debug\netcoreapp3.1\Task VS.runtimeconfig.json
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\bin\Debug\netcoreapp3.1\Task VS.runtimeconfig.dev.json
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\bin\Debug\netcoreapp3.1\Task VS.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\bin\Debug\netcoreapp3.1\Task VS.pdb
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\obj\Debug\netcoreapp3.1\Task VS.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\obj\Debug\netcoreapp3.1\Task VS.pdb
+C:\Users\mrtan\OneDrive\Рабочий стол\Task VS\obj\Debug\netcoreapp3.1\Task VS.genruntimeconfig.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\bin\Debug\netcoreapp3.1\Task VS.exe
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\bin\Debug\netcoreapp3.1\Task VS.deps.json
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\bin\Debug\netcoreapp3.1\Task VS.runtimeconfig.json
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\bin\Debug\netcoreapp3.1\Task VS.runtimeconfig.dev.json
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\bin\Debug\netcoreapp3.1\Task VS.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\bin\Debug\netcoreapp3.1\Task VS.pdb
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\obj\Debug\netcoreapp3.1\Task VS.csprojAssemblyReference.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\obj\Debug\netcoreapp3.1\Task VS.AssemblyInfoInputs.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\obj\Debug\netcoreapp3.1\Task VS.AssemblyInfo.cs
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\obj\Debug\netcoreapp3.1\Task VS.csproj.CoreCompileInputs.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\obj\Debug\netcoreapp3.1\Task VS.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\obj\Debug\netcoreapp3.1\Task VS.pdb
+C:\Users\mrtan\OneDrive\Рабочий стол\C#\obj\Debug\netcoreapp3.1\Task VS.genruntimeconfig.cache
