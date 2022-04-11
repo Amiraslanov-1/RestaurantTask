@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RestaurantTask/1.0.0": {
+        "dependencies": {
+          "Manager": "1.0.0",
+          "Menu": "1.0.0"
+        },
+        "runtime": {
+          "RestaurantTask.dll": {}
+        }
+      },
+      "Exception/1.0.0": {
+        "runtime": {
+          "Exception.dll": {}
+        }
+      },
+      "Manager/1.0.0": {
+        "dependencies": {
+          "Exception": "1.0.0",
+          "Menu": "1.0.0",
+          "Orders": "1.0.0"
+        },
+        "runtime": {
+          "Manager.dll": {}
+        }
+      },
+      "Menu/1.0.0": {
+        "runtime": {
+          "Menu.dll": {}
+        }
+      },
+      "Orders/1.0.0": {
+        "dependencies": {
+          "Menu": "1.0.0"
+        },
+        "runtime": {
+          "Orders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestaurantTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Orders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

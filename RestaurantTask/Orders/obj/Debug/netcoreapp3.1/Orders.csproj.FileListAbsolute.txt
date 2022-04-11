@@ -1,0 +1,13 @@
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\bin\Debug\netcoreapp3.1\Orders.deps.json
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\bin\Debug\netcoreapp3.1\Orders.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\bin\Debug\netcoreapp3.1\Orders.pdb
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\bin\Debug\netcoreapp3.1\Menu.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\bin\Debug\netcoreapp3.1\Menu.pdb
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.AssemblyReference.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\obj\Debug\netcoreapp3.1\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfoInputs.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfo.cs
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.CoreCompileInputs.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.CopyComplete
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\obj\Debug\netcoreapp3.1\Orders.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Orders\obj\Debug\netcoreapp3.1\Orders.pdb

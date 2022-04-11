@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\RestaurantTask\\RestaurantTask.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Exception\\Exception.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Exception\\Exception.csproj",
+        "projectName": "Exception",
+        "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Exception\\Exception.csproj",
+        "packagesPath": "C:\\Users\\mrtan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Exception\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrtan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Manager\\Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Manager\\Manager.csproj",
+        "projectName": "Manager",
+        "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Manager\\Manager.csproj",
+        "packagesPath": "C:\\Users\\mrtan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrtan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Exception\\Exception.csproj": {
+                "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Exception\\Exception.csproj"
+              },
+              "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Menu\\Menu.csproj": {
+                "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Menu\\Menu.csproj"
+              },
+              "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Orders\\Orders.csproj": {
+                "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Orders\\Orders.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Menu\\Menu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Menu\\Menu.csproj",
+        "projectName": "Menu",
+        "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Menu\\Menu.csproj",
+        "packagesPath": "C:\\Users\\mrtan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Menu\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrtan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Orders\\Orders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Orders\\Orders.csproj",
+        "projectName": "Orders",
+        "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Orders\\Orders.csproj",
+        "packagesPath": "C:\\Users\\mrtan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Orders\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrtan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Menu\\Menu.csproj": {
+                "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Menu\\Menu.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\RestaurantTask\\RestaurantTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\RestaurantTask\\RestaurantTask.csproj",
+        "projectName": "RestaurantTask",
+        "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\RestaurantTask\\RestaurantTask.csproj",
+        "packagesPath": "C:\\Users\\mrtan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\RestaurantTask\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrtan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Manager\\Manager.csproj": {
+                "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Manager\\Manager.csproj"
+              },
+              "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Menu\\Menu.csproj": {
+                "projectPath": "C:\\Users\\mrtan\\OneDrive\\Рабочий стол\\RestaurantTask\\Menu\\Menu.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

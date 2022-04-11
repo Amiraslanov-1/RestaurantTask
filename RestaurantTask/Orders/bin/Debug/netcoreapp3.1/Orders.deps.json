@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Orders/1.0.0": {
+        "dependencies": {
+          "Menu": "1.0.0"
+        },
+        "runtime": {
+          "Orders.dll": {}
+        }
+      },
+      "Menu/1.0.0": {
+        "runtime": {
+          "Menu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Orders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

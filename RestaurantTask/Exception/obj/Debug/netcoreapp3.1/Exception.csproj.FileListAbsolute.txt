@@ -1,0 +1,10 @@
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.AssemblyReference.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Exception\obj\Debug\netcoreapp3.1\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+C:\Users\mrtan\OneDrive\Рабочий стол\RestaurantTask\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
