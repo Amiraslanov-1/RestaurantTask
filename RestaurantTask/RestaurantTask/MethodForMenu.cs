@@ -18,7 +18,7 @@ namespace RestaurantTask
         }
         public void MenuItem()
         {
-            string categoryMenu;
+            string choiceMenu;
             do
             {
                 Console.WriteLine("1 Add a new item  ");
@@ -31,8 +31,8 @@ namespace RestaurantTask
                 Console.WriteLine("0. Return to previous menu\n");
 
                 Console.WriteLine("Enter Your Choice :");
-                categoryMenu = Console.ReadLine();
-                switch (categoryMenu)
+                choiceMenu = Console.ReadLine();
+                switch (choiceMenu)
                 {
                     case "1":
 
@@ -202,7 +202,7 @@ namespace RestaurantTask
                     default:
                         break;
                 }
-            } while ("0" != categoryMenu);
+            } while ("0" != choiceMenu);
         }
 
         public void OrderItem()
